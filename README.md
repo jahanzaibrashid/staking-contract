@@ -14,7 +14,7 @@ node scripts/sample-script.js
 npx hardhat help
 ```
 
-Clone repo install packages and see console i did don comment console.log in test file
+Clone repo install packages and see console i did not comment console.log in test file
 
 ```
 npm install
